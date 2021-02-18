@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Rabbit mq">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../library/Rabbit mq" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../library/Rabbit mq" recursive="false" />
+  </library>
+</component>
